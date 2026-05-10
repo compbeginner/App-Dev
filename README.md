@@ -1,3 +1,5 @@
+![Demon Slayer](https://awhspitch.com/wp-content/uploads/2022/03/unnamed-3.png)
+
 # 🗡️ Demon Slayer (Kimetsu no Yaiba)
 
 ## **Overview**
@@ -31,12 +33,4 @@ It follows **Tanjiro Kamado**, a kind-hearted boy who becomes a demon slayer aft
 | **Season** | **Arc** | **Release Year** |
 |------------|----------|------------------|
 | Season 1 | Final Selection & Mount Natagumo Arc | 2019 |
-| Mugen Train | Mugen Train Arc | 2020 |
-| Season 2 | Entertainment District Arc | 2021 |
-| Season 3 | Swordsmith Village Arc | 2023 |
-
----
-
-## **Fun Fact**
-- The *Mugen Train* movie became the **highest-grossing anime film of all time**, surpassing *Spirited Away*.
-
+| M
